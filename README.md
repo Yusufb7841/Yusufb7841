@@ -18,7 +18,20 @@
 
 ### Tech stack
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,sklearn,postgres,docker,git,gradle,c" alt="Java, Spring, Python, PyTorch, scikit-learn, PostgreSQL, Docker, Git, Gradle, C">
+<table>
+  <tr>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"><br><sub>Java</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=spring" width="48" alt="Spring"><br><sub>Spring</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"><br><sub>Python</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"><br><sub>PyTorch</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="scikit-learn"><br><sub>scikit-learn</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"><br><sub>Docker</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><br><sub>Git</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=gradle" width="48" alt="Gradle"><br><sub>Gradle</sub></td>
+    <td align="center" width="72"><img src="https://skillicons.dev/icons?i=c" width="48" alt="C"><br><sub>C</sub></td>
+  </tr>
+</table>
 
 ### Projects
 
