@@ -12,11 +12,13 @@
 
 ### About me
 
-- 🎓 Computer science at **Heinrich Heine University Düsseldorf**: finishing my B.Sc. thesis, M.Sc. underway
+- 🎓 Studying at **Heinrich Heine University Düsseldorf**: B.Sc. thesis in progress, M.Sc. underway
 - 💼 Looking for a **working student (Werkstudent)** position in software development
 - 🌍 German (C1) · English (fluent) · Turkish and Kurdish (native)
 
 ### Tech stack
+
+<div align="center">
 
 <table>
   <tr>
@@ -33,28 +35,33 @@
   </tr>
 </table>
 
+</div>
+
 ### Projects
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>📊 <a href="https://github.com/Yusufb7841/word-order-text-classification">Word order in text classification</a></b>
-      <p>Does word order matter for news classification? Five models compared in 180 training runs, with tests and CI.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Yusufb7841/word-order-text-classification"><img src="assets/word-order.svg" width="64" alt=""></a><br>
+      <b><a href="https://github.com/Yusufb7841/word-order-text-classification">Word order in text classification</a></b>
+      <p>Does word order matter for news classification? 180 training runs say barely: a bag-of-words model matches the LSTM at a sixth of the training cost.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn">
     </td>
-    <td width="33%" valign="top">
-      <b>📈 <a href="https://github.com/Yusufb7841/ratiolab-stock-analysis">RatioLab</a></b> · <i>bachelor thesis</i>
-      <p>Web app for fundamental stock analysis that shows where every number comes from. In progress.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Yusufb7841/ratiolab-stock-analysis"><img src="assets/ratiolab.svg" width="64" alt=""></a><br>
+      <b><a href="https://github.com/Yusufb7841/ratiolab-stock-analysis">RatioLab</a></b><br><sub><i>bachelor thesis, in progress</i></sub>
+      <p>Web app for fundamental stock analysis that shows where every number comes from.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
     </td>
-    <td width="33%" valign="top">
-      <b>🛒 <a href="https://github.com/Yusufb7841/spring-postgres-shop-api">Shop REST API</a></b>
-      <p>Online shop backend with Spring Boot and PostgreSQL, featuring database triggers, constraints and views.</p>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Yusufb7841/spring-postgres-shop-api"><img src="assets/shop-api.svg" width="64" alt=""></a><br>
+      <b><a href="https://github.com/Yusufb7841/spring-postgres-shop-api">Shop REST API</a></b>
+      <p>REST API for an online shop, with business rules enforced in the database through triggers, constraints and views.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
