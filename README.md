@@ -14,7 +14,7 @@
 
 - 🎓 Studying at **Heinrich Heine University Düsseldorf**: B.Sc. thesis in progress, M.Sc. underway
 - 💼 Looking for a **working student (Werkstudent)** position in software development
-- 🌍 German (C1) · English (fluent) · Turkish and Kurdish (native)
+- 🌍 German (fluent) · English (fluent) · Turkish and Kurdish (native)
 
 ### Tech stack
 
